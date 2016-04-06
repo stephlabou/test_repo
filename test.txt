@@ -6,4 +6,4 @@ This is a third line.
 
 This a fourth line.
 
-Indeed, this will make a conflict.
+Solved merge conflict, huzzah!
